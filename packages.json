@@ -1,0 +1,10 @@
+[
+  {
+    "package": "pavo",
+    "url": "https://github.com/rmaia/pavo",
+  },
+  {
+    "package": "lightr",
+    "url": "https://github.com/ropensci/lightr",
+  }
+]
